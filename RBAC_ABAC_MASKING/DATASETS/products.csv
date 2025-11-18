@@ -1,0 +1,501 @@
+PRODUCT_ID,PRODUCT_NAME,CATEGORY,PRICE,PACKAGE_SIZE
+P0001,Frugivore Product 0001,FRUITS & VEGGIES,745.24,12 pcs
+P0002,Frugivore Product 0002,BAKERY,754.93,2 kg
+P0003,Frugivore Product 0003,DAIRY,485.92,2 kg
+P0004,Frugivore Product 0004,DAIRY,566.84,5 kg
+P0005,Frugivore Product 0005,DAIRY,643.09,250g
+P0006,Frugivore Product 0006,SNACKS,440.21,6 pcs
+P0007,Frugivore Product 0007,DAIRY,419.59,6 pcs
+P0008,Frugivore Product 0008,FRUITS & VEGGIES,684.17,1 L
+P0009,Frugivore Product 0009,DAIRY,363.81,6 pcs
+P0010,Frugivore Product 0010,OIL & GHEE,574.63,12 pcs
+P0011,Frugivore Product 0011,GROCERY,595.02,5 kg
+P0012,Frugivore Product 0012,FROZEN,626.47,1 L
+P0013,Frugivore Product 0013,BAKERY,665.82,5 kg
+P0014,Frugivore Product 0014,SNACKS,685.82,500g
+P0015,Frugivore Product 0015,PERSONAL CARE,708.86,2 kg
+P0016,Frugivore Product 0016,OIL & GHEE,468.78,12 pcs
+P0017,Frugivore Product 0017,SNACKS,52.1,6 pcs
+P0018,Frugivore Product 0018,GROCERY,405.41,6 pcs
+P0019,Frugivore Product 0019,PERSONAL CARE,292.06,5 kg
+P0020,Frugivore Product 0020,FROZEN,37.82,2 kg
+P0021,Frugivore Product 0021,DAIRY,215.84,12 pcs
+P0022,Frugivore Product 0022,OIL & GHEE,457.49,2 kg
+P0023,Frugivore Product 0023,OIL & GHEE,527.35,1 L
+P0024,Frugivore Product 0024,OIL & GHEE,640.56,500g
+P0025,Frugivore Product 0025,PERSONAL CARE,200.63,2 kg
+P0026,Frugivore Product 0026,PERSONAL CARE,541.25,6 pcs
+P0027,Frugivore Product 0027,OIL & GHEE,456.17,6 pcs
+P0028,Frugivore Product 0028,BAKERY,797.41,2 L
+P0029,Frugivore Product 0029,SNACKS,300.89,1 L
+P0030,Frugivore Product 0030,PERSONAL CARE,266.1,2 kg
+P0031,Frugivore Product 0031,DAIRY,585.39,6 pcs
+P0032,Frugivore Product 0032,DAIRY,602.02,1 kg
+P0033,Frugivore Product 0033,BEVERAGES,196.62,1 L
+P0034,Frugivore Product 0034,PERSONAL CARE,587.93,2 L
+P0035,Frugivore Product 0035,PERSONAL CARE,784.99,2 kg
+P0036,Frugivore Product 0036,PERSONAL CARE,205.16,1 kg
+P0037,Frugivore Product 0037,PERSONAL CARE,40.89,2 L
+P0038,Frugivore Product 0038,GROCERY,241.22,250g
+P0039,Frugivore Product 0039,FROZEN,254.95,1 kg
+P0040,Frugivore Product 0040,OIL & GHEE,108.99,250g
+P0041,Frugivore Product 0041,PERSONAL CARE,391.44,1 L
+P0042,Frugivore Product 0042,SNACKS,171.96,250g
+P0043,Frugivore Product 0043,PERSONAL CARE,754.62,1 L
+P0044,Frugivore Product 0044,DAIRY,663.03,12 pcs
+P0045,Frugivore Product 0045,OIL & GHEE,87.04,250g
+P0046,Frugivore Product 0046,GROCERY,144.88,5 kg
+P0047,Frugivore Product 0047,DAIRY,795.32,500g
+P0048,Frugivore Product 0048,FROZEN,618.62,2 kg
+P0049,Frugivore Product 0049,FROZEN,322.89,1 L
+P0050,Frugivore Product 0050,PERSONAL CARE,692.33,12 pcs
+P0051,Frugivore Product 0051,PERSONAL CARE,467.84,250g
+P0052,Frugivore Product 0052,DAIRY,759.64,2 kg
+P0053,Frugivore Product 0053,BEVERAGES,233.78,500g
+P0054,Frugivore Product 0054,GROCERY,214.7,2 L
+P0055,Frugivore Product 0055,DAIRY,150.53,12 pcs
+P0056,Frugivore Product 0056,OIL & GHEE,560.82,1 L
+P0057,Frugivore Product 0057,PERSONAL CARE,55.13,5 kg
+P0058,Frugivore Product 0058,PERSONAL CARE,571.3,1 L
+P0059,Frugivore Product 0059,DAIRY,559.29,5 kg
+P0060,Frugivore Product 0060,BEVERAGES,357.36,2 L
+P0061,Frugivore Product 0061,BEVERAGES,528.68,5 kg
+P0062,Frugivore Product 0062,GROCERY,84.99,1 kg
+P0063,Frugivore Product 0063,PERSONAL CARE,488.18,5 kg
+P0064,Frugivore Product 0064,OIL & GHEE,125.75,5 kg
+P0065,Frugivore Product 0065,BAKERY,755.86,2 L
+P0066,Frugivore Product 0066,FROZEN,410.22,500g
+P0067,Frugivore Product 0067,FRUITS & VEGGIES,714.86,6 pcs
+P0068,Frugivore Product 0068,PERSONAL CARE,49.92,2 kg
+P0069,Frugivore Product 0069,FRUITS & VEGGIES,799.67,5 kg
+P0070,Frugivore Product 0070,FRUITS & VEGGIES,617.59,1 kg
+P0071,Frugivore Product 0071,OIL & GHEE,429.6,1 L
+P0072,Frugivore Product 0072,PERSONAL CARE,169.75,12 pcs
+P0073,Frugivore Product 0073,OIL & GHEE,776.17,1 L
+P0074,Frugivore Product 0074,SNACKS,344.43,6 pcs
+P0075,Frugivore Product 0075,DAIRY,690.45,6 pcs
+P0076,Frugivore Product 0076,BAKERY,564.13,5 kg
+P0077,Frugivore Product 0077,BAKERY,656.45,2 L
+P0078,Frugivore Product 0078,FRUITS & VEGGIES,380.22,6 pcs
+P0079,Frugivore Product 0079,PERSONAL CARE,278.92,12 pcs
+P0080,Frugivore Product 0080,FROZEN,665.19,250g
+P0081,Frugivore Product 0081,FROZEN,385.72,250g
+P0082,Frugivore Product 0082,BEVERAGES,429.2,1 L
+P0083,Frugivore Product 0083,OIL & GHEE,615.19,2 kg
+P0084,Frugivore Product 0084,PERSONAL CARE,452.9,5 kg
+P0085,Frugivore Product 0085,OIL & GHEE,708.25,1 L
+P0086,Frugivore Product 0086,DAIRY,52.23,2 kg
+P0087,Frugivore Product 0087,GROCERY,269.28,250g
+P0088,Frugivore Product 0088,FROZEN,344.15,2 kg
+P0089,Frugivore Product 0089,DAIRY,385.31,500g
+P0090,Frugivore Product 0090,GROCERY,413.75,5 kg
+P0091,Frugivore Product 0091,FROZEN,573.17,12 pcs
+P0092,Frugivore Product 0092,OIL & GHEE,784.79,2 kg
+P0093,Frugivore Product 0093,OIL & GHEE,454.47,12 pcs
+P0094,Frugivore Product 0094,BEVERAGES,739.84,2 L
+P0095,Frugivore Product 0095,GROCERY,695.3,5 kg
+P0096,Frugivore Product 0096,BAKERY,291.7,2 L
+P0097,Frugivore Product 0097,PERSONAL CARE,661.82,5 kg
+P0098,Frugivore Product 0098,PERSONAL CARE,674.86,1 L
+P0099,Frugivore Product 0099,GROCERY,373.84,1 L
+P0100,Frugivore Product 0100,SNACKS,285.98,2 L
+P0101,Frugivore Product 0101,BAKERY,380.62,6 pcs
+P0102,Frugivore Product 0102,BEVERAGES,785.2,2 kg
+P0103,Frugivore Product 0103,BAKERY,209.84,12 pcs
+P0104,Frugivore Product 0104,FRUITS & VEGGIES,275.0,1 L
+P0105,Frugivore Product 0105,BAKERY,327.28,1 kg
+P0106,Frugivore Product 0106,OIL & GHEE,772.91,1 kg
+P0107,Frugivore Product 0107,FROZEN,773.32,6 pcs
+P0108,Frugivore Product 0108,DAIRY,703.13,1 L
+P0109,Frugivore Product 0109,DAIRY,434.98,1 L
+P0110,Frugivore Product 0110,FRUITS & VEGGIES,586.28,12 pcs
+P0111,Frugivore Product 0111,GROCERY,87.62,5 kg
+P0112,Frugivore Product 0112,SNACKS,509.91,12 pcs
+P0113,Frugivore Product 0113,DAIRY,685.86,2 L
+P0114,Frugivore Product 0114,BAKERY,764.69,1 L
+P0115,Frugivore Product 0115,FROZEN,57.64,500g
+P0116,Frugivore Product 0116,BEVERAGES,515.99,5 kg
+P0117,Frugivore Product 0117,BEVERAGES,605.01,12 pcs
+P0118,Frugivore Product 0118,DAIRY,615.48,500g
+P0119,Frugivore Product 0119,OIL & GHEE,158.1,5 kg
+P0120,Frugivore Product 0120,FRUITS & VEGGIES,65.41,250g
+P0121,Frugivore Product 0121,PERSONAL CARE,306.02,12 pcs
+P0122,Frugivore Product 0122,GROCERY,218.03,12 pcs
+P0123,Frugivore Product 0123,GROCERY,160.89,500g
+P0124,Frugivore Product 0124,BAKERY,507.18,2 kg
+P0125,Frugivore Product 0125,OIL & GHEE,732.88,1 kg
+P0126,Frugivore Product 0126,BEVERAGES,385.09,5 kg
+P0127,Frugivore Product 0127,OIL & GHEE,226.6,250g
+P0128,Frugivore Product 0128,OIL & GHEE,723.93,2 L
+P0129,Frugivore Product 0129,GROCERY,86.87,6 pcs
+P0130,Frugivore Product 0130,PERSONAL CARE,521.98,12 pcs
+P0131,Frugivore Product 0131,PERSONAL CARE,381.76,5 kg
+P0132,Frugivore Product 0132,BEVERAGES,799.52,1 L
+P0133,Frugivore Product 0133,DAIRY,212.65,6 pcs
+P0134,Frugivore Product 0134,PERSONAL CARE,794.37,5 kg
+P0135,Frugivore Product 0135,FRUITS & VEGGIES,783.02,12 pcs
+P0136,Frugivore Product 0136,PERSONAL CARE,36.24,250g
+P0137,Frugivore Product 0137,OIL & GHEE,671.29,5 kg
+P0138,Frugivore Product 0138,BEVERAGES,497.44,6 pcs
+P0139,Frugivore Product 0139,BEVERAGES,520.2,5 kg
+P0140,Frugivore Product 0140,GROCERY,513.75,250g
+P0141,Frugivore Product 0141,PERSONAL CARE,637.23,250g
+P0142,Frugivore Product 0142,SNACKS,593.92,500g
+P0143,Frugivore Product 0143,PERSONAL CARE,281.57,12 pcs
+P0144,Frugivore Product 0144,GROCERY,184.61,2 L
+P0145,Frugivore Product 0145,SNACKS,438.76,5 kg
+P0146,Frugivore Product 0146,GROCERY,227.87,1 L
+P0147,Frugivore Product 0147,PERSONAL CARE,604.85,6 pcs
+P0148,Frugivore Product 0148,DAIRY,390.62,500g
+P0149,Frugivore Product 0149,GROCERY,610.7,2 kg
+P0150,Frugivore Product 0150,BAKERY,774.8,2 L
+P0151,Frugivore Product 0151,SNACKS,99.53,12 pcs
+P0152,Frugivore Product 0152,FRUITS & VEGGIES,233.63,500g
+P0153,Frugivore Product 0153,OIL & GHEE,313.81,5 kg
+P0154,Frugivore Product 0154,BAKERY,663.26,6 pcs
+P0155,Frugivore Product 0155,DAIRY,549.62,1 L
+P0156,Frugivore Product 0156,FRUITS & VEGGIES,507.05,2 L
+P0157,Frugivore Product 0157,SNACKS,734.75,2 kg
+P0158,Frugivore Product 0158,DAIRY,519.26,1 L
+P0159,Frugivore Product 0159,PERSONAL CARE,529.91,500g
+P0160,Frugivore Product 0160,GROCERY,64.92,250g
+P0161,Frugivore Product 0161,PERSONAL CARE,796.86,500g
+P0162,Frugivore Product 0162,DAIRY,210.8,2 L
+P0163,Frugivore Product 0163,GROCERY,329.26,6 pcs
+P0164,Frugivore Product 0164,FROZEN,352.73,1 kg
+P0165,Frugivore Product 0165,BAKERY,534.29,1 L
+P0166,Frugivore Product 0166,BAKERY,753.07,5 kg
+P0167,Frugivore Product 0167,FRUITS & VEGGIES,561.52,2 kg
+P0168,Frugivore Product 0168,OIL & GHEE,372.42,2 kg
+P0169,Frugivore Product 0169,SNACKS,106.5,6 pcs
+P0170,Frugivore Product 0170,FROZEN,724.31,6 pcs
+P0171,Frugivore Product 0171,FRUITS & VEGGIES,336.57,2 kg
+P0172,Frugivore Product 0172,DAIRY,760.74,1 L
+P0173,Frugivore Product 0173,DAIRY,540.33,250g
+P0174,Frugivore Product 0174,FRUITS & VEGGIES,635.83,2 kg
+P0175,Frugivore Product 0175,GROCERY,635.97,2 kg
+P0176,Frugivore Product 0176,DAIRY,668.96,2 L
+P0177,Frugivore Product 0177,BEVERAGES,481.51,2 kg
+P0178,Frugivore Product 0178,SNACKS,626.26,250g
+P0179,Frugivore Product 0179,PERSONAL CARE,690.97,1 kg
+P0180,Frugivore Product 0180,GROCERY,445.97,1 kg
+P0181,Frugivore Product 0181,DAIRY,539.01,250g
+P0182,Frugivore Product 0182,GROCERY,41.44,2 kg
+P0183,Frugivore Product 0183,SNACKS,42.15,5 kg
+P0184,Frugivore Product 0184,FRUITS & VEGGIES,127.6,12 pcs
+P0185,Frugivore Product 0185,FROZEN,117.51,500g
+P0186,Frugivore Product 0186,OIL & GHEE,375.17,6 pcs
+P0187,Frugivore Product 0187,FROZEN,487.12,1 L
+P0188,Frugivore Product 0188,FROZEN,200.59,250g
+P0189,Frugivore Product 0189,FROZEN,262.26,250g
+P0190,Frugivore Product 0190,FRUITS & VEGGIES,798.91,12 pcs
+P0191,Frugivore Product 0191,BAKERY,558.3,1 L
+P0192,Frugivore Product 0192,OIL & GHEE,86.59,500g
+P0193,Frugivore Product 0193,SNACKS,498.39,500g
+P0194,Frugivore Product 0194,GROCERY,241.76,2 L
+P0195,Frugivore Product 0195,SNACKS,323.3,2 L
+P0196,Frugivore Product 0196,PERSONAL CARE,379.36,12 pcs
+P0197,Frugivore Product 0197,DAIRY,640.68,500g
+P0198,Frugivore Product 0198,FROZEN,585.05,2 kg
+P0199,Frugivore Product 0199,BAKERY,377.7,2 kg
+P0200,Frugivore Product 0200,BAKERY,290.98,1 L
+P0201,Frugivore Product 0201,BAKERY,350.31,500g
+P0202,Frugivore Product 0202,SNACKS,358.61,5 kg
+P0203,Frugivore Product 0203,SNACKS,764.27,1 L
+P0204,Frugivore Product 0204,DAIRY,100.24,500g
+P0205,Frugivore Product 0205,DAIRY,362.54,6 pcs
+P0206,Frugivore Product 0206,GROCERY,458.41,2 L
+P0207,Frugivore Product 0207,FROZEN,283.83,500g
+P0208,Frugivore Product 0208,BAKERY,302.27,12 pcs
+P0209,Frugivore Product 0209,FRUITS & VEGGIES,775.67,5 kg
+P0210,Frugivore Product 0210,SNACKS,109.77,2 L
+P0211,Frugivore Product 0211,BEVERAGES,149.14,1 L
+P0212,Frugivore Product 0212,BEVERAGES,682.4,6 pcs
+P0213,Frugivore Product 0213,FROZEN,313.02,5 kg
+P0214,Frugivore Product 0214,BEVERAGES,651.56,2 L
+P0215,Frugivore Product 0215,FROZEN,50.22,5 kg
+P0216,Frugivore Product 0216,FRUITS & VEGGIES,168.92,5 kg
+P0217,Frugivore Product 0217,SNACKS,300.29,1 kg
+P0218,Frugivore Product 0218,GROCERY,466.07,12 pcs
+P0219,Frugivore Product 0219,DAIRY,139.24,250g
+P0220,Frugivore Product 0220,DAIRY,604.51,2 kg
+P0221,Frugivore Product 0221,BAKERY,353.27,6 pcs
+P0222,Frugivore Product 0222,GROCERY,314.94,6 pcs
+P0223,Frugivore Product 0223,DAIRY,710.17,1 kg
+P0224,Frugivore Product 0224,GROCERY,610.92,250g
+P0225,Frugivore Product 0225,DAIRY,239.52,12 pcs
+P0226,Frugivore Product 0226,OIL & GHEE,497.45,12 pcs
+P0227,Frugivore Product 0227,PERSONAL CARE,195.99,2 L
+P0228,Frugivore Product 0228,DAIRY,295.78,500g
+P0229,Frugivore Product 0229,PERSONAL CARE,552.23,1 L
+P0230,Frugivore Product 0230,FROZEN,543.69,250g
+P0231,Frugivore Product 0231,BEVERAGES,334.35,250g
+P0232,Frugivore Product 0232,FRUITS & VEGGIES,187.41,2 kg
+P0233,Frugivore Product 0233,GROCERY,618.4,5 kg
+P0234,Frugivore Product 0234,SNACKS,122.39,1 L
+P0235,Frugivore Product 0235,BAKERY,165.28,12 pcs
+P0236,Frugivore Product 0236,FROZEN,571.83,2 L
+P0237,Frugivore Product 0237,FROZEN,671.68,6 pcs
+P0238,Frugivore Product 0238,DAIRY,335.74,250g
+P0239,Frugivore Product 0239,BAKERY,44.43,500g
+P0240,Frugivore Product 0240,SNACKS,473.33,12 pcs
+P0241,Frugivore Product 0241,BAKERY,252.93,12 pcs
+P0242,Frugivore Product 0242,FRUITS & VEGGIES,773.97,1 kg
+P0243,Frugivore Product 0243,OIL & GHEE,670.66,6 pcs
+P0244,Frugivore Product 0244,DAIRY,366.27,500g
+P0245,Frugivore Product 0245,BEVERAGES,365.47,12 pcs
+P0246,Frugivore Product 0246,FROZEN,90.56,5 kg
+P0247,Frugivore Product 0247,SNACKS,200.61,1 kg
+P0248,Frugivore Product 0248,DAIRY,423.07,500g
+P0249,Frugivore Product 0249,FROZEN,422.66,6 pcs
+P0250,Frugivore Product 0250,SNACKS,590.08,1 kg
+P0251,Frugivore Product 0251,BEVERAGES,109.16,5 kg
+P0252,Frugivore Product 0252,BEVERAGES,163.59,1 kg
+P0253,Frugivore Product 0253,DAIRY,166.4,1 L
+P0254,Frugivore Product 0254,OIL & GHEE,610.92,1 L
+P0255,Frugivore Product 0255,SNACKS,695.47,6 pcs
+P0256,Frugivore Product 0256,GROCERY,368.62,1 L
+P0257,Frugivore Product 0257,OIL & GHEE,516.17,5 kg
+P0258,Frugivore Product 0258,FRUITS & VEGGIES,301.0,500g
+P0259,Frugivore Product 0259,PERSONAL CARE,385.54,250g
+P0260,Frugivore Product 0260,FRUITS & VEGGIES,313.93,5 kg
+P0261,Frugivore Product 0261,DAIRY,526.39,500g
+P0262,Frugivore Product 0262,FROZEN,326.05,2 L
+P0263,Frugivore Product 0263,FRUITS & VEGGIES,376.29,2 kg
+P0264,Frugivore Product 0264,SNACKS,495.85,2 L
+P0265,Frugivore Product 0265,GROCERY,767.45,1 L
+P0266,Frugivore Product 0266,DAIRY,654.44,6 pcs
+P0267,Frugivore Product 0267,DAIRY,418.5,1 kg
+P0268,Frugivore Product 0268,FRUITS & VEGGIES,220.76,1 L
+P0269,Frugivore Product 0269,OIL & GHEE,433.53,1 kg
+P0270,Frugivore Product 0270,SNACKS,317.1,5 kg
+P0271,Frugivore Product 0271,BAKERY,344.75,6 pcs
+P0272,Frugivore Product 0272,FRUITS & VEGGIES,637.7,6 pcs
+P0273,Frugivore Product 0273,DAIRY,283.86,2 L
+P0274,Frugivore Product 0274,BAKERY,248.79,1 kg
+P0275,Frugivore Product 0275,SNACKS,92.76,1 kg
+P0276,Frugivore Product 0276,SNACKS,268.88,12 pcs
+P0277,Frugivore Product 0277,GROCERY,488.18,500g
+P0278,Frugivore Product 0278,PERSONAL CARE,460.37,6 pcs
+P0279,Frugivore Product 0279,GROCERY,545.99,2 L
+P0280,Frugivore Product 0280,DAIRY,527.44,12 pcs
+P0281,Frugivore Product 0281,FROZEN,308.61,6 pcs
+P0282,Frugivore Product 0282,PERSONAL CARE,168.8,2 kg
+P0283,Frugivore Product 0283,SNACKS,759.7,1 L
+P0284,Frugivore Product 0284,BEVERAGES,204.44,1 kg
+P0285,Frugivore Product 0285,GROCERY,89.42,500g
+P0286,Frugivore Product 0286,FROZEN,623.57,2 L
+P0287,Frugivore Product 0287,FRUITS & VEGGIES,539.69,1 kg
+P0288,Frugivore Product 0288,BAKERY,148.77,1 kg
+P0289,Frugivore Product 0289,GROCERY,585.31,250g
+P0290,Frugivore Product 0290,BAKERY,310.51,2 kg
+P0291,Frugivore Product 0291,OIL & GHEE,500.16,1 L
+P0292,Frugivore Product 0292,BEVERAGES,441.19,5 kg
+P0293,Frugivore Product 0293,OIL & GHEE,726.06,2 kg
+P0294,Frugivore Product 0294,SNACKS,552.3,1 L
+P0295,Frugivore Product 0295,OIL & GHEE,622.47,12 pcs
+P0296,Frugivore Product 0296,FROZEN,436.14,1 kg
+P0297,Frugivore Product 0297,BEVERAGES,646.97,1 kg
+P0298,Frugivore Product 0298,PERSONAL CARE,70.18,1 L
+P0299,Frugivore Product 0299,SNACKS,457.0,500g
+P0300,Frugivore Product 0300,FROZEN,685.4,5 kg
+P0301,Frugivore Product 0301,DAIRY,617.6,5 kg
+P0302,Frugivore Product 0302,OIL & GHEE,727.09,1 kg
+P0303,Frugivore Product 0303,BAKERY,100.62,2 kg
+P0304,Frugivore Product 0304,OIL & GHEE,711.16,250g
+P0305,Frugivore Product 0305,BAKERY,71.01,2 L
+P0306,Frugivore Product 0306,SNACKS,211.55,500g
+P0307,Frugivore Product 0307,SNACKS,202.89,6 pcs
+P0308,Frugivore Product 0308,DAIRY,676.17,6 pcs
+P0309,Frugivore Product 0309,GROCERY,135.95,5 kg
+P0310,Frugivore Product 0310,OIL & GHEE,565.98,1 kg
+P0311,Frugivore Product 0311,OIL & GHEE,375.42,250g
+P0312,Frugivore Product 0312,DAIRY,44.63,2 kg
+P0313,Frugivore Product 0313,GROCERY,452.58,2 L
+P0314,Frugivore Product 0314,BAKERY,115.61,5 kg
+P0315,Frugivore Product 0315,BEVERAGES,261.89,250g
+P0316,Frugivore Product 0316,BEVERAGES,353.27,1 L
+P0317,Frugivore Product 0317,DAIRY,115.36,1 L
+P0318,Frugivore Product 0318,FROZEN,42.66,2 L
+P0319,Frugivore Product 0319,BEVERAGES,583.28,5 kg
+P0320,Frugivore Product 0320,BAKERY,31.2,6 pcs
+P0321,Frugivore Product 0321,BEVERAGES,469.41,1 kg
+P0322,Frugivore Product 0322,DAIRY,433.08,6 pcs
+P0323,Frugivore Product 0323,DAIRY,764.12,2 L
+P0324,Frugivore Product 0324,FROZEN,635.54,2 L
+P0325,Frugivore Product 0325,FROZEN,45.66,1 L
+P0326,Frugivore Product 0326,FRUITS & VEGGIES,519.47,6 pcs
+P0327,Frugivore Product 0327,PERSONAL CARE,605.43,6 pcs
+P0328,Frugivore Product 0328,DAIRY,295.5,500g
+P0329,Frugivore Product 0329,SNACKS,132.73,6 pcs
+P0330,Frugivore Product 0330,FROZEN,290.68,1 kg
+P0331,Frugivore Product 0331,OIL & GHEE,785.23,1 L
+P0332,Frugivore Product 0332,GROCERY,654.85,500g
+P0333,Frugivore Product 0333,OIL & GHEE,58.48,2 kg
+P0334,Frugivore Product 0334,FRUITS & VEGGIES,639.15,250g
+P0335,Frugivore Product 0335,SNACKS,748.7,2 L
+P0336,Frugivore Product 0336,BAKERY,791.62,2 L
+P0337,Frugivore Product 0337,OIL & GHEE,225.05,2 kg
+P0338,Frugivore Product 0338,PERSONAL CARE,304.87,250g
+P0339,Frugivore Product 0339,SNACKS,240.38,6 pcs
+P0340,Frugivore Product 0340,BAKERY,714.9,1 L
+P0341,Frugivore Product 0341,BAKERY,291.06,1 kg
+P0342,Frugivore Product 0342,OIL & GHEE,562.89,6 pcs
+P0343,Frugivore Product 0343,FROZEN,235.37,500g
+P0344,Frugivore Product 0344,BAKERY,90.77,1 kg
+P0345,Frugivore Product 0345,FROZEN,256.2,500g
+P0346,Frugivore Product 0346,DAIRY,282.5,5 kg
+P0347,Frugivore Product 0347,PERSONAL CARE,373.36,12 pcs
+P0348,Frugivore Product 0348,GROCERY,561.12,6 pcs
+P0349,Frugivore Product 0349,OIL & GHEE,62.61,6 pcs
+P0350,Frugivore Product 0350,BAKERY,241.41,250g
+P0351,Frugivore Product 0351,DAIRY,546.81,12 pcs
+P0352,Frugivore Product 0352,SNACKS,425.08,1 kg
+P0353,Frugivore Product 0353,FRUITS & VEGGIES,139.94,1 L
+P0354,Frugivore Product 0354,FRUITS & VEGGIES,127.2,2 kg
+P0355,Frugivore Product 0355,SNACKS,308.86,250g
+P0356,Frugivore Product 0356,GROCERY,552.88,6 pcs
+P0357,Frugivore Product 0357,SNACKS,371.83,500g
+P0358,Frugivore Product 0358,GROCERY,437.68,12 pcs
+P0359,Frugivore Product 0359,SNACKS,530.16,2 kg
+P0360,Frugivore Product 0360,DAIRY,49.95,1 kg
+P0361,Frugivore Product 0361,OIL & GHEE,428.66,2 L
+P0362,Frugivore Product 0362,DAIRY,231.57,5 kg
+P0363,Frugivore Product 0363,OIL & GHEE,195.22,5 kg
+P0364,Frugivore Product 0364,OIL & GHEE,184.14,1 kg
+P0365,Frugivore Product 0365,DAIRY,378.07,1 L
+P0366,Frugivore Product 0366,DAIRY,654.1,6 pcs
+P0367,Frugivore Product 0367,SNACKS,576.35,2 L
+P0368,Frugivore Product 0368,FROZEN,253.58,5 kg
+P0369,Frugivore Product 0369,GROCERY,578.09,1 kg
+P0370,Frugivore Product 0370,SNACKS,421.74,500g
+P0371,Frugivore Product 0371,BEVERAGES,639.89,2 kg
+P0372,Frugivore Product 0372,OIL & GHEE,50.24,2 L
+P0373,Frugivore Product 0373,SNACKS,389.9,2 L
+P0374,Frugivore Product 0374,GROCERY,501.2,500g
+P0375,Frugivore Product 0375,DAIRY,268.15,1 L
+P0376,Frugivore Product 0376,FROZEN,346.31,12 pcs
+P0377,Frugivore Product 0377,DAIRY,126.5,6 pcs
+P0378,Frugivore Product 0378,DAIRY,376.48,2 L
+P0379,Frugivore Product 0379,SNACKS,128.82,2 L
+P0380,Frugivore Product 0380,GROCERY,621.19,1 kg
+P0381,Frugivore Product 0381,BAKERY,417.21,250g
+P0382,Frugivore Product 0382,DAIRY,428.94,5 kg
+P0383,Frugivore Product 0383,GROCERY,154.71,2 kg
+P0384,Frugivore Product 0384,SNACKS,759.56,2 L
+P0385,Frugivore Product 0385,PERSONAL CARE,681.37,5 kg
+P0386,Frugivore Product 0386,BEVERAGES,518.99,2 L
+P0387,Frugivore Product 0387,PERSONAL CARE,126.38,5 kg
+P0388,Frugivore Product 0388,FROZEN,101.94,1 kg
+P0389,Frugivore Product 0389,GROCERY,161.82,6 pcs
+P0390,Frugivore Product 0390,FRUITS & VEGGIES,665.43,250g
+P0391,Frugivore Product 0391,DAIRY,65.01,5 kg
+P0392,Frugivore Product 0392,BEVERAGES,620.56,12 pcs
+P0393,Frugivore Product 0393,FRUITS & VEGGIES,413.49,2 L
+P0394,Frugivore Product 0394,PERSONAL CARE,524.27,5 kg
+P0395,Frugivore Product 0395,OIL & GHEE,218.56,12 pcs
+P0396,Frugivore Product 0396,PERSONAL CARE,379.23,250g
+P0397,Frugivore Product 0397,GROCERY,368.5,1 L
+P0398,Frugivore Product 0398,OIL & GHEE,187.1,1 kg
+P0399,Frugivore Product 0399,SNACKS,693.34,6 pcs
+P0400,Frugivore Product 0400,SNACKS,781.04,1 kg
+P0401,Frugivore Product 0401,SNACKS,426.53,500g
+P0402,Frugivore Product 0402,SNACKS,216.14,500g
+P0403,Frugivore Product 0403,PERSONAL CARE,376.19,1 kg
+P0404,Frugivore Product 0404,DAIRY,68.97,12 pcs
+P0405,Frugivore Product 0405,BAKERY,221.17,1 kg
+P0406,Frugivore Product 0406,SNACKS,748.99,6 pcs
+P0407,Frugivore Product 0407,BEVERAGES,617.6,1 L
+P0408,Frugivore Product 0408,FROZEN,389.45,5 kg
+P0409,Frugivore Product 0409,OIL & GHEE,47.85,12 pcs
+P0410,Frugivore Product 0410,FROZEN,382.07,2 kg
+P0411,Frugivore Product 0411,BEVERAGES,479.17,250g
+P0412,Frugivore Product 0412,FRUITS & VEGGIES,246.64,1 L
+P0413,Frugivore Product 0413,PERSONAL CARE,443.25,500g
+P0414,Frugivore Product 0414,BAKERY,133.13,5 kg
+P0415,Frugivore Product 0415,SNACKS,618.17,6 pcs
+P0416,Frugivore Product 0416,FRUITS & VEGGIES,338.45,2 L
+P0417,Frugivore Product 0417,BEVERAGES,309.14,5 kg
+P0418,Frugivore Product 0418,DAIRY,327.49,1 L
+P0419,Frugivore Product 0419,FROZEN,245.38,500g
+P0420,Frugivore Product 0420,GROCERY,780.81,12 pcs
+P0421,Frugivore Product 0421,SNACKS,642.07,6 pcs
+P0422,Frugivore Product 0422,FROZEN,752.99,1 kg
+P0423,Frugivore Product 0423,BEVERAGES,493.9,12 pcs
+P0424,Frugivore Product 0424,FROZEN,61.0,250g
+P0425,Frugivore Product 0425,GROCERY,579.47,1 L
+P0426,Frugivore Product 0426,FROZEN,381.88,2 L
+P0427,Frugivore Product 0427,GROCERY,282.53,6 pcs
+P0428,Frugivore Product 0428,GROCERY,332.58,5 kg
+P0429,Frugivore Product 0429,SNACKS,420.63,2 L
+P0430,Frugivore Product 0430,FROZEN,407.18,5 kg
+P0431,Frugivore Product 0431,OIL & GHEE,658.13,6 pcs
+P0432,Frugivore Product 0432,SNACKS,548.83,12 pcs
+P0433,Frugivore Product 0433,PERSONAL CARE,643.5,250g
+P0434,Frugivore Product 0434,OIL & GHEE,234.46,2 kg
+P0435,Frugivore Product 0435,FRUITS & VEGGIES,479.31,1 kg
+P0436,Frugivore Product 0436,FROZEN,514.35,12 pcs
+P0437,Frugivore Product 0437,GROCERY,662.68,2 kg
+P0438,Frugivore Product 0438,FRUITS & VEGGIES,470.88,500g
+P0439,Frugivore Product 0439,BEVERAGES,44.58,6 pcs
+P0440,Frugivore Product 0440,BAKERY,146.6,2 kg
+P0441,Frugivore Product 0441,BAKERY,416.4,1 L
+P0442,Frugivore Product 0442,FRUITS & VEGGIES,573.45,2 L
+P0443,Frugivore Product 0443,BEVERAGES,461.88,1 L
+P0444,Frugivore Product 0444,FROZEN,320.16,1 kg
+P0445,Frugivore Product 0445,OIL & GHEE,732.34,6 pcs
+P0446,Frugivore Product 0446,FROZEN,302.8,5 kg
+P0447,Frugivore Product 0447,OIL & GHEE,178.04,2 kg
+P0448,Frugivore Product 0448,PERSONAL CARE,459.73,2 kg
+P0449,Frugivore Product 0449,PERSONAL CARE,623.8,2 kg
+P0450,Frugivore Product 0450,OIL & GHEE,274.12,6 pcs
+P0451,Frugivore Product 0451,FROZEN,748.95,5 kg
+P0452,Frugivore Product 0452,PERSONAL CARE,123.84,2 L
+P0453,Frugivore Product 0453,BAKERY,719.74,12 pcs
+P0454,Frugivore Product 0454,SNACKS,765.05,1 kg
+P0455,Frugivore Product 0455,PERSONAL CARE,62.39,500g
+P0456,Frugivore Product 0456,SNACKS,741.49,5 kg
+P0457,Frugivore Product 0457,OIL & GHEE,194.77,2 L
+P0458,Frugivore Product 0458,PERSONAL CARE,748.43,5 kg
+P0459,Frugivore Product 0459,GROCERY,114.1,2 kg
+P0460,Frugivore Product 0460,BEVERAGES,69.09,2 L
+P0461,Frugivore Product 0461,BEVERAGES,521.22,250g
+P0462,Frugivore Product 0462,DAIRY,348.24,1 L
+P0463,Frugivore Product 0463,DAIRY,554.52,1 kg
+P0464,Frugivore Product 0464,FRUITS & VEGGIES,772.68,1 kg
+P0465,Frugivore Product 0465,BAKERY,532.73,1 L
+P0466,Frugivore Product 0466,OIL & GHEE,530.91,5 kg
+P0467,Frugivore Product 0467,SNACKS,249.77,250g
+P0468,Frugivore Product 0468,DAIRY,532.27,2 kg
+P0469,Frugivore Product 0469,FROZEN,598.79,250g
+P0470,Frugivore Product 0470,GROCERY,351.77,1 kg
+P0471,Frugivore Product 0471,FRUITS & VEGGIES,797.82,12 pcs
+P0472,Frugivore Product 0472,OIL & GHEE,173.46,5 kg
+P0473,Frugivore Product 0473,FRUITS & VEGGIES,37.14,500g
+P0474,Frugivore Product 0474,SNACKS,249.11,2 L
+P0475,Frugivore Product 0475,FROZEN,410.31,1 kg
+P0476,Frugivore Product 0476,FROZEN,390.38,2 kg
+P0477,Frugivore Product 0477,DAIRY,284.63,1 L
+P0478,Frugivore Product 0478,PERSONAL CARE,583.32,250g
+P0479,Frugivore Product 0479,SNACKS,638.89,2 kg
+P0480,Frugivore Product 0480,GROCERY,500.43,12 pcs
+P0481,Frugivore Product 0481,BAKERY,426.77,500g
+P0482,Frugivore Product 0482,BAKERY,545.33,1 kg
+P0483,Frugivore Product 0483,GROCERY,397.64,2 kg
+P0484,Frugivore Product 0484,FRUITS & VEGGIES,230.8,2 kg
+P0485,Frugivore Product 0485,OIL & GHEE,610.39,6 pcs
+P0486,Frugivore Product 0486,PERSONAL CARE,478.49,250g
+P0487,Frugivore Product 0487,PERSONAL CARE,533.34,2 kg
+P0488,Frugivore Product 0488,FRUITS & VEGGIES,544.2,1 L
+P0489,Frugivore Product 0489,PERSONAL CARE,152.98,2 L
+P0490,Frugivore Product 0490,PERSONAL CARE,561.52,5 kg
+P0491,Frugivore Product 0491,SNACKS,503.26,2 kg
+P0492,Frugivore Product 0492,GROCERY,398.2,1 L
+P0493,Frugivore Product 0493,SNACKS,350.2,2 L
+P0494,Frugivore Product 0494,OIL & GHEE,613.16,2 kg
+P0495,Frugivore Product 0495,BEVERAGES,553.86,500g
+P0496,Frugivore Product 0496,FROZEN,374.0,6 pcs
+P0497,Frugivore Product 0497,DAIRY,736.28,500g
+P0498,Frugivore Product 0498,FRUITS & VEGGIES,668.16,2 L
+P0499,Frugivore Product 0499,BEVERAGES,470.98,1 kg
+P0500,Frugivore Product 0500,GROCERY,282.65,2 L

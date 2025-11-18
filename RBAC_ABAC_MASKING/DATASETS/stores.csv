@@ -1,0 +1,201 @@
+STORE_ID,STORE_NAME,CITY,STATE,REGION,OPENED_AT
+S001,Falhari Store 001,Chandigarh,Punjab,NORTH,2021-01-31
+S002,Falhari Store 002,Panaji,Goa,WEST,2019-07-26
+S003,Falhari Store 003,Amritsar,Punjab,NORTH,2018-12-23
+S004,Falhari Store 004,Bhubaneswar,Odisha,EAST,2018-05-03
+S005,Falhari Store 005,Ghaziabad,Uttar Pradesh,NORTH,2020-08-10
+S006,Falhari Store 006,Bhopal,Madhya Pradesh,CENTRAL,2020-03-25
+S007,Falhari Store 007,Bilaspur,Chhattisgarh,CENTRAL,2020-06-21
+S008,Falhari Store 008,Gaya,Bihar,EAST,2018-01-27
+S009,Falhari Store 009,Vadodara,Gujarat,WEST,2022-09-28
+S010,Falhari Store 010,Warangal,Telangana,SOUTH,2019-09-29
+S011,Falhari Store 011,Nagpur,Maharashtra,WEST,2019-02-23
+S012,Falhari Store 012,Kanpur,Uttar Pradesh,NORTH,2019-02-01
+S013,Falhari Store 013,Thiruvananthapuram,Kerala,SOUTH,2020-12-19
+S014,Falhari Store 014,Faridabad,Haryana,NORTH,2019-05-27
+S015,Falhari Store 015,Kolkata,West Bengal,EAST,2021-04-15
+S016,Falhari Store 016,Kozhikode,Kerala,SOUTH,2020-02-27
+S017,Falhari Store 017,Noida,Uttar Pradesh,NORTH,2020-07-22
+S018,Falhari Store 018,Chennai,Tamil Nadu,SOUTH,2020-08-11
+S019,Falhari Store 019,Ludhiana,Punjab,NORTH,2021-02-12
+S020,Falhari Store 020,Gaya,Bihar,EAST,2019-10-29
+S021,Falhari Store 021,Thiruvananthapuram,Kerala,SOUTH,2020-05-08
+S022,Falhari Store 022,Mangalore,Karnataka,SOUTH,2018-10-20
+S023,Falhari Store 023,Vadodara,Gujarat,WEST,2020-09-29
+S024,Falhari Store 024,Surat,Gujarat,WEST,2022-04-04
+S025,Falhari Store 025,Mangalore,Karnataka,SOUTH,2020-06-18
+S026,Falhari Store 026,Hyderabad,Telangana,SOUTH,2020-07-27
+S027,Falhari Store 027,Faridabad,Haryana,NORTH,2022-07-02
+S028,Falhari Store 028,Bengaluru,Karnataka,SOUTH,2020-05-14
+S029,Falhari Store 029,Hyderabad,Telangana,SOUTH,2023-08-07
+S030,Falhari Store 030,Howrah,West Bengal,EAST,2019-08-09
+S031,Falhari Store 031,Bengaluru,Karnataka,SOUTH,2020-10-07
+S032,Falhari Store 032,Bilaspur,Chhattisgarh,CENTRAL,2022-10-21
+S033,Falhari Store 033,Howrah,West Bengal,EAST,2020-06-17
+S034,Falhari Store 034,Jodhpur,Rajasthan,WEST,2023-07-15
+S035,Falhari Store 035,Noida,Uttar Pradesh,NORTH,2019-03-26
+S036,Falhari Store 036,Jodhpur,Rajasthan,WEST,2019-10-18
+S037,Falhari Store 037,Bhubaneswar,Odisha,EAST,2022-04-26
+S038,Falhari Store 038,Howrah,West Bengal,EAST,2023-12-08
+S039,Falhari Store 039,Mangalore,Karnataka,SOUTH,2018-02-17
+S040,Falhari Store 040,Amritsar,Punjab,NORTH,2020-12-28
+S041,Falhari Store 041,Hyderabad,Telangana,SOUTH,2021-04-17
+S042,Falhari Store 042,Bhubaneswar,Odisha,EAST,2023-02-02
+S043,Falhari Store 043,Saket,Delhi,NORTH,2023-08-13
+S044,Falhari Store 044,Vadodara,Gujarat,WEST,2019-03-12
+S045,Falhari Store 045,Madurai,Tamil Nadu,SOUTH,2023-09-11
+S046,Falhari Store 046,Pune,Maharashtra,WEST,2022-03-12
+S047,Falhari Store 047,Vadodara,Gujarat,WEST,2023-12-13
+S048,Falhari Store 048,Saket,Delhi,NORTH,2023-06-25
+S049,Falhari Store 049,New Delhi,Delhi,NORTH,2022-01-26
+S050,Falhari Store 050,Chennai,Tamil Nadu,SOUTH,2018-08-26
+S051,Falhari Store 051,Panaji,Goa,WEST,2018-12-17
+S052,Falhari Store 052,Ranchi,Jharkhand,EAST,2023-12-22
+S053,Falhari Store 053,Jaipur,Rajasthan,WEST,2023-05-01
+S054,Falhari Store 054,Raipur,Chhattisgarh,CENTRAL,2020-12-21
+S055,Falhari Store 055,Indore,Madhya Pradesh,CENTRAL,2020-05-17
+S056,Falhari Store 056,Raipur,Chhattisgarh,CENTRAL,2021-06-30
+S057,Falhari Store 057,Howrah,West Bengal,EAST,2022-11-30
+S058,Falhari Store 058,Indore,Madhya Pradesh,CENTRAL,2019-05-11
+S059,Falhari Store 059,Panaji,Goa,WEST,2018-09-20
+S060,Falhari Store 060,Hyderabad,Telangana,SOUTH,2020-07-31
+S061,Falhari Store 061,Panaji,Goa,WEST,2018-10-18
+S062,Falhari Store 062,Gurugram,Haryana,NORTH,2018-10-04
+S063,Falhari Store 063,Faridabad,Haryana,NORTH,2018-10-18
+S064,Falhari Store 064,Bhopal,Madhya Pradesh,CENTRAL,2021-02-14
+S065,Falhari Store 065,Ranchi,Jharkhand,EAST,2019-06-26
+S066,Falhari Store 066,Ranchi,Jharkhand,EAST,2023-04-22
+S067,Falhari Store 067,Bhubaneswar,Odisha,EAST,2019-01-22
+S068,Falhari Store 068,Amritsar,Punjab,NORTH,2022-11-01
+S069,Falhari Store 069,Thiruvananthapuram,Kerala,SOUTH,2022-08-11
+S070,Falhari Store 070,Patna,Bihar,EAST,2019-02-08
+S071,Falhari Store 071,Faridabad,Haryana,NORTH,2021-10-21
+S072,Falhari Store 072,Chandigarh,Punjab,NORTH,2020-02-24
+S073,Falhari Store 073,Nashik,Maharashtra,WEST,2019-07-29
+S074,Falhari Store 074,Bhubaneswar,Odisha,EAST,2021-02-14
+S075,Falhari Store 075,Patna,Bihar,EAST,2018-11-05
+S076,Falhari Store 076,Patna,Bihar,EAST,2018-07-27
+S077,Falhari Store 077,Raipur,Chhattisgarh,CENTRAL,2019-01-18
+S078,Falhari Store 078,Panaji,Goa,WEST,2022-07-23
+S079,Falhari Store 079,Jamshedpur,Jharkhand,EAST,2020-05-25
+S080,Falhari Store 080,Kolkata,West Bengal,EAST,2019-11-06
+S081,Falhari Store 081,Kolkata,West Bengal,EAST,2022-05-19
+S082,Falhari Store 082,Mysuru,Karnataka,SOUTH,2021-03-14
+S083,Falhari Store 083,Cuttack,Odisha,EAST,2019-09-27
+S084,Falhari Store 084,Nagpur,Maharashtra,WEST,2020-06-10
+S085,Falhari Store 085,Gurugram,Haryana,NORTH,2021-07-08
+S086,Falhari Store 086,Gurugram,Haryana,NORTH,2023-05-07
+S087,Falhari Store 087,Bhopal,Madhya Pradesh,CENTRAL,2018-08-21
+S088,Falhari Store 088,Bhopal,Madhya Pradesh,CENTRAL,2020-02-01
+S089,Falhari Store 089,Noida,Uttar Pradesh,NORTH,2020-08-21
+S090,Falhari Store 090,Kolkata,West Bengal,EAST,2020-10-05
+S091,Falhari Store 091,Gurugram,Haryana,NORTH,2022-09-14
+S092,Falhari Store 092,Indore,Madhya Pradesh,CENTRAL,2020-12-04
+S093,Falhari Store 093,Nagpur,Maharashtra,WEST,2020-09-04
+S094,Falhari Store 094,Mysuru,Karnataka,SOUTH,2019-06-21
+S095,Falhari Store 095,Coimbatore,Tamil Nadu,SOUTH,2021-07-19
+S096,Falhari Store 096,Noida,Uttar Pradesh,NORTH,2023-02-21
+S097,Falhari Store 097,Chandigarh,Punjab,NORTH,2020-05-23
+S098,Falhari Store 098,Indore,Madhya Pradesh,CENTRAL,2019-06-27
+S099,Falhari Store 099,Kochi,Kerala,SOUTH,2020-09-27
+S100,Falhari Store 100,Thiruvananthapuram,Kerala,SOUTH,2019-10-09
+S101,Falhari Store 101,Gaya,Bihar,EAST,2023-12-07
+S102,Falhari Store 102,Saket,Delhi,NORTH,2019-03-01
+S103,Falhari Store 103,Udaipur,Rajasthan,WEST,2019-04-18
+S104,Falhari Store 104,Amritsar,Punjab,NORTH,2019-09-29
+S105,Falhari Store 105,Mysuru,Karnataka,SOUTH,2020-05-12
+S106,Falhari Store 106,Hyderabad,Telangana,SOUTH,2020-12-17
+S107,Falhari Store 107,Indore,Madhya Pradesh,CENTRAL,2020-10-25
+S108,Falhari Store 108,Gurugram,Haryana,NORTH,2022-10-01
+S109,Falhari Store 109,Bengaluru,Karnataka,SOUTH,2018-01-15
+S110,Falhari Store 110,Hyderabad,Telangana,SOUTH,2020-12-08
+S111,Falhari Store 111,Vadodara,Gujarat,WEST,2022-12-15
+S112,Falhari Store 112,Bilaspur,Chhattisgarh,CENTRAL,2018-02-09
+S113,Falhari Store 113,Chandigarh,Punjab,NORTH,2019-09-03
+S114,Falhari Store 114,Raipur,Chhattisgarh,CENTRAL,2022-02-21
+S115,Falhari Store 115,Raipur,Chhattisgarh,CENTRAL,2022-10-27
+S116,Falhari Store 116,Jaipur,Rajasthan,WEST,2021-06-16
+S117,Falhari Store 117,Kochi,Kerala,SOUTH,2022-01-05
+S118,Falhari Store 118,Pune,Maharashtra,WEST,2019-02-26
+S119,Falhari Store 119,Kozhikode,Kerala,SOUTH,2022-07-23
+S120,Falhari Store 120,Jaipur,Rajasthan,WEST,2019-10-28
+S121,Falhari Store 121,Surat,Gujarat,WEST,2018-04-12
+S122,Falhari Store 122,Vadodara,Gujarat,WEST,2021-09-22
+S123,Falhari Store 123,Bhubaneswar,Odisha,EAST,2020-12-28
+S124,Falhari Store 124,Vadodara,Gujarat,WEST,2019-03-19
+S125,Falhari Store 125,Kolkata,West Bengal,EAST,2023-04-12
+S126,Falhari Store 126,Panaji,Goa,WEST,2023-03-01
+S127,Falhari Store 127,Thiruvananthapuram,Kerala,SOUTH,2020-07-21
+S128,Falhari Store 128,Panaji,Goa,WEST,2020-03-02
+S129,Falhari Store 129,Howrah,West Bengal,EAST,2021-02-15
+S130,Falhari Store 130,Lucknow,Uttar Pradesh,NORTH,2021-12-09
+S131,Falhari Store 131,Indore,Madhya Pradesh,CENTRAL,2021-09-18
+S132,Falhari Store 132,New Delhi,Delhi,NORTH,2020-12-05
+S133,Falhari Store 133,Vadodara,Gujarat,WEST,2020-12-23
+S134,Falhari Store 134,Gurugram,Haryana,NORTH,2022-11-15
+S135,Falhari Store 135,Kozhikode,Kerala,SOUTH,2021-07-08
+S136,Falhari Store 136,Bhubaneswar,Odisha,EAST,2022-04-27
+S137,Falhari Store 137,Nagpur,Maharashtra,WEST,2018-07-01
+S138,Falhari Store 138,Bhubaneswar,Odisha,EAST,2023-10-31
+S139,Falhari Store 139,Raipur,Chhattisgarh,CENTRAL,2022-01-31
+S140,Falhari Store 140,Bhubaneswar,Odisha,EAST,2021-09-14
+S141,Falhari Store 141,Hyderabad,Telangana,SOUTH,2021-05-15
+S142,Falhari Store 142,Indore,Madhya Pradesh,CENTRAL,2022-07-31
+S143,Falhari Store 143,Warangal,Telangana,SOUTH,2021-04-26
+S144,Falhari Store 144,Raipur,Chhattisgarh,CENTRAL,2020-02-25
+S145,Falhari Store 145,Cuttack,Odisha,EAST,2019-12-14
+S146,Falhari Store 146,Coimbatore,Tamil Nadu,SOUTH,2018-01-02
+S147,Falhari Store 147,Coimbatore,Tamil Nadu,SOUTH,2020-05-10
+S148,Falhari Store 148,Cuttack,Odisha,EAST,2023-03-20
+S149,Falhari Store 149,Gaya,Bihar,EAST,2020-05-25
+S150,Falhari Store 150,Indore,Madhya Pradesh,CENTRAL,2019-11-27
+S151,Falhari Store 151,Lucknow,Uttar Pradesh,NORTH,2023-10-13
+S152,Falhari Store 152,Hyderabad,Telangana,SOUTH,2020-08-20
+S153,Falhari Store 153,Chennai,Tamil Nadu,SOUTH,2020-03-26
+S154,Falhari Store 154,Jaipur,Rajasthan,WEST,2018-07-09
+S155,Falhari Store 155,Margao,Goa,WEST,2018-10-26
+S156,Falhari Store 156,Gaya,Bihar,EAST,2020-03-07
+S157,Falhari Store 157,Howrah,West Bengal,EAST,2022-06-25
+S158,Falhari Store 158,Panaji,Goa,WEST,2018-01-23
+S159,Falhari Store 159,Ludhiana,Punjab,NORTH,2020-06-15
+S160,Falhari Store 160,Vadodara,Gujarat,WEST,2023-10-23
+S161,Falhari Store 161,Patna,Bihar,EAST,2020-10-17
+S162,Falhari Store 162,Ludhiana,Punjab,NORTH,2019-07-01
+S163,Falhari Store 163,Gaya,Bihar,EAST,2022-12-18
+S164,Falhari Store 164,Indore,Madhya Pradesh,CENTRAL,2023-01-01
+S165,Falhari Store 165,Vadodara,Gujarat,WEST,2023-04-29
+S166,Falhari Store 166,Gaya,Bihar,EAST,2020-10-09
+S167,Falhari Store 167,Mangalore,Karnataka,SOUTH,2023-06-08
+S168,Falhari Store 168,Margao,Goa,WEST,2022-12-07
+S169,Falhari Store 169,Lucknow,Uttar Pradesh,NORTH,2020-08-18
+S170,Falhari Store 170,Mysuru,Karnataka,SOUTH,2021-08-02
+S171,Falhari Store 171,Raipur,Chhattisgarh,CENTRAL,2019-07-21
+S172,Falhari Store 172,Jaipur,Rajasthan,WEST,2022-04-18
+S173,Falhari Store 173,Jodhpur,Rajasthan,WEST,2020-05-26
+S174,Falhari Store 174,Kanpur,Uttar Pradesh,NORTH,2022-07-28
+S175,Falhari Store 175,Warangal,Telangana,SOUTH,2022-08-31
+S176,Falhari Store 176,Gurugram,Haryana,NORTH,2022-09-17
+S177,Falhari Store 177,Kolkata,West Bengal,EAST,2022-04-08
+S178,Falhari Store 178,Ranchi,Jharkhand,EAST,2021-12-11
+S179,Falhari Store 179,Coimbatore,Tamil Nadu,SOUTH,2022-09-13
+S180,Falhari Store 180,Raipur,Chhattisgarh,CENTRAL,2023-06-23
+S181,Falhari Store 181,Margao,Goa,WEST,2022-11-21
+S182,Falhari Store 182,Ranchi,Jharkhand,EAST,2022-05-12
+S183,Falhari Store 183,Warangal,Telangana,SOUTH,2019-11-08
+S184,Falhari Store 184,Patna,Bihar,EAST,2023-12-28
+S185,Falhari Store 185,Rohini,Delhi,NORTH,2018-04-22
+S186,Falhari Store 186,Kanpur,Uttar Pradesh,NORTH,2019-07-10
+S187,Falhari Store 187,Patna,Bihar,EAST,2018-07-25
+S188,Falhari Store 188,Mysuru,Karnataka,SOUTH,2021-09-02
+S189,Falhari Store 189,Nashik,Maharashtra,WEST,2021-08-31
+S190,Falhari Store 190,Warangal,Telangana,SOUTH,2021-02-13
+S191,Falhari Store 191,Cuttack,Odisha,EAST,2018-12-02
+S192,Falhari Store 192,Ranchi,Jharkhand,EAST,2018-08-02
+S193,Falhari Store 193,Kochi,Kerala,SOUTH,2018-10-09
+S194,Falhari Store 194,Gurugram,Haryana,NORTH,2020-10-09
+S195,Falhari Store 195,Mumbai,Maharashtra,WEST,2019-09-17
+S196,Falhari Store 196,Panaji,Goa,WEST,2023-04-24
+S197,Falhari Store 197,Amritsar,Punjab,NORTH,2020-06-11
+S198,Falhari Store 198,Gaya,Bihar,EAST,2022-02-19
+S199,Falhari Store 199,Vadodara,Gujarat,WEST,2019-04-15
+S200,Falhari Store 200,Surat,Gujarat,WEST,2019-03-19
