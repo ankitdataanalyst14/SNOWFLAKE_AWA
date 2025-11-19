@@ -1,0 +1,72 @@
+[
+  {
+    "PRODUCT_ID": "P001",
+    "PRODUCT_NAME": "Wireless Mouse",
+    "CATEGORY": "Electronics",
+    "BRAND": "LogiTech",
+    "PRICE": 25.99
+  },
+  {
+    "PRODUCT_ID": "P002",
+    "PRODUCT_NAME": "Bluetooth Keyboard",
+    "CATEGORY": "Electronics",
+    "BRAND": "KeyChron",
+    "PRICE": 45.5
+  },
+  {
+    "PRODUCT_ID": "P003",
+    "PRODUCT_NAME": "Noise Cancelling Headphones",
+    "CATEGORY": "Electronics",
+    "BRAND": "Sony",
+    "PRICE": 99.99
+  },
+  {
+    "PRODUCT_ID": "P004",
+    "PRODUCT_NAME": "Smartwatch",
+    "CATEGORY": "Wearables",
+    "BRAND": "Fitbit",
+    "PRICE": 120.0
+  },
+  {
+    "PRODUCT_ID": "P005",
+    "PRODUCT_NAME": "Fitness Band",
+    "CATEGORY": "Wearables",
+    "BRAND": "Mi",
+    "PRICE": 35.0
+  },
+  {
+    "PRODUCT_ID": "P006",
+    "PRODUCT_NAME": "Gaming Monitor",
+    "CATEGORY": "Computers",
+    "BRAND": "Dell",
+    "PRICE": 200.0
+  },
+  {
+    "PRODUCT_ID": "P007",
+    "PRODUCT_NAME": "External Hard Drive",
+    "CATEGORY": "Computers",
+    "BRAND": "Seagate",
+    "PRICE": 80.0
+  },
+  {
+    "PRODUCT_ID": "P008",
+    "PRODUCT_NAME": "USB-C Hub",
+    "CATEGORY": "Accessories",
+    "BRAND": "Anker",
+    "PRICE": 29.0
+  },
+  {
+    "PRODUCT_ID": "P009",
+    "PRODUCT_NAME": "Webcam HD",
+    "CATEGORY": "Accessories",
+    "BRAND": "LogiTech",
+    "PRICE": 55.0
+  },
+  {
+    "PRODUCT_ID": "P010",
+    "PRODUCT_NAME": "Laptop Stand",
+    "CATEGORY": "Accessories",
+    "BRAND": "AmazonBasics",
+    "PRICE": 22.5
+  }
+]
